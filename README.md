@@ -12,24 +12,10 @@
 
 ## Project
 
-|기간|프로젝트||
-:---|:---|:---|
-24.06 ~ 24.07| MilGam| Front-end
-22.06 ~ 22.09| Plog| ios 개발
-
-
-## Skill
-<div>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=ffffff"/>
-<div/>
+|기간|프로젝트|역할|기술 및 언어||
+:---|:---|:---|:---|:---|
+24.06 ~ 24.07| AI를 활용한 크라우드 매니지먼트, MilGam| Front-end| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>| 최우수상
+22.06 ~ 22.09| 플로깅 전용 앱, Plog| ios 개발| <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff"/>
 
 ## Certificate
   
