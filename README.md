@@ -9,6 +9,12 @@
 24.02 ~ 24.08| KT AIVLE School
 19.03 ~ 23.02| 숙명여자대학교 컴퓨터과학전공 
 
+|취득일|수상|
+:---|:---|
+24.08| KT AIVLE School Big Project 최우수상
+24.08| AIVLE School 우수 에이쁠 활동증서
+24.07| KT AIVLE School 5기 2차 코딩마스터스 마스터
+24.04| KT AIVLE School 5기 1차 코딩마스터스 마스터
 
 ## Project
 
@@ -25,11 +31,6 @@
 23.10| SQLD
 23.06| 정보처리기사
 23.01| TOEIC
-  
-|취득일|수상|
-:---|:---|
-24.07| KT AIVLE School 5기 2차 코딩마스터스 마스터
-24.04| KT AIVLE School 5기 1차 코딩마스터스 마스터
 
 ## Contact
 > baenan1@naver.com
